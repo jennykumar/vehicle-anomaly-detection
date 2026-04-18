@@ -1,7 +1,7 @@
 🚗 Vehicle Sensor Anomaly Detection
 
 📌 Overview
-This project focuses on detecting anomalies in vehicle sensor data (e.g., temperature, ECU signals) using time-series analysis. It identifies abnormal patterns that may indicate system faults or unusual behavior.
+This project focuses on detecting anomalies in vehicle sensor data (e.g., temperature, ECU signals) using time-series analysis. It identifies abnormal patterns that may indicate system faults or unusual behavior. This approach detects anomalies by identifying values that significantly deviate from normal behavior patterns.This method is useful for monitoring sensor data in real-time vehicle systems.
 
 🎯 Objective
 To analyze time-series sensor data and detect anomalies using statistical techniques.
@@ -37,5 +37,9 @@ To analyze time-series sensor data and detect anomalies using statistical techni
 📂 Project Structure
 vehicle_anomaly_detection.ipynb – Jupyter notebook with full implementation
 
+📁 Dataset  
+Dataset used is publicly available / synthetically generated for learning purposes.
+
 📌 Status
 ✅ Completed
+This project was developed as part of hands-on learning in data analysis and machine learning.
