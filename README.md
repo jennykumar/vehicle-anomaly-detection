@@ -22,6 +22,10 @@ To analyze time-series sensor data and detect anomalies using statistical techni
 - Successfully detected abnormal data points in sensor readings
 - Clearly visualized anomalies alongside normal data
 - Demonstrated basic anomaly detection using statistical methods
+- Feature importance highlights which variables contribute most to failure prediction
+
+⚠️ Note:
+The dataset is synthetic/simplified, which may result in unusually high accuracy compared to real-world scenarios.
 
 💡 Skills Demonstrated
 - Data Analysis
