@@ -2,10 +2,11 @@
 
 📌 Overview
 - This project focuses on detecting anomalies in vehicle sensor data (e.g., temperature, ECU signals) using time-series analysis.
-- Anomalies are identified using statistical thresholds (mean ± standard deviation)
+- Anomalies are detected using statistical thresholds (mean ± standard deviation)
 - It identifies abnormal patterns that may indicate system faults or unusual behavior.
 - This approach detects anomalies by identifying values that significantly deviate from normal behavior patterns and also simulates real-time monitoring of vehicle   sensor data for fault detection.
 - This method is useful for monitoring sensor data in real-time vehicle systems.
+- - This method can be used for real-time monitoring of vehicle sensor data to detect abnormal behavior
 
 🎯 Objective
 To analyze time-series sensor data and detect anomalies using statistical techniques.
@@ -43,6 +44,8 @@ vehicle_anomaly_detection.ipynb – Jupyter notebook with full implementation
 
 📁 Dataset  
 Dataset used is publicly available / synthetically generated for learning purposes.
+
+Note:- This project demonstrates practical application of data analysis and machine learning concepts.
 
 📌 Status
 ✅ Completed
